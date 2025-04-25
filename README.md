@@ -88,3 +88,7 @@ If you want to see the lines that are not being used you can run 'python -m cove
 - **Floyd-Warshall** is best for dense graphs where all-pairs shortest paths are needed.
 
 Choose the right algorithm based on the graph structure and the specific problem constraints.
+## Experiments
+![Time_single](images/time_single.jpeg)
+
+![Time_all](images/time_all.jpeg)
